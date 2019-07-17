@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top{
+    width: 100%;
+    height: 30px;
+    background: #202020;
+}
+.top .p1{
+    display: inline-block;
+    color: #fff;
+    line-height: 30px;
+}
+.top span{
+    float: right;
+    color: #fff;
+    line-height: 30px;
+}
+.top a{
+    display: inline-block;
+    float: right;
+    color: #fff;
+    line-height: 30px;
+}
+.banner{
+    margin-bottom: 70px;
+}
+.banner img{
+    width: 100%;
+}
+.banner .banner_top{
+    width: 100%;
+    height: 100px;
+    line-height: 100px;
+    background: #fff;
+
+}
+.banner_top .img1{
+    width: 280px;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+.banner_top ul{
+    float: right;
+}
+.banner_top ul li{
+    display: inline-block;
+    list-style: none;
+    float: right;
+    text-align: center;
+    margin-right: 40px;
+}
+.good_class{
+    height: 300px;
+}
+.good_class .color_pics{
+    margin-bottom: 60px;
+}
+.good_class .p1{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 60px;
+}
+
+.good_class .p1 .span1{
+    color: #f88f00;
+}
+
+.good_class .color_pics li{
+    float: left;
+    list-style: none;
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.good_class .color_pics  li p{
+    text-align: center;
+    margin-top: -130px;
+}
+
+.good_class .color_pics .list1{
+    width: 400px;
+    height: 300px;
+}
+.good_class .color_pics .list2{
+    width: 230px;
+    height: 145px;
+}
+.good_class .color_pics .list3{
+    width: 310px;
+    height: 145px;
+}
+.good_class .color_pics .list4{
+    width: 230px;
+    height: 145px;
+}
+.good_class .color_pics .list5{
+    width: 230px;
+    height: 145px;
+}
+.good_class .color_pics .list6{
+    width: 230px;
+    height: 145px;
+}
+.good_class .color_pics .list7{
+    width: 310px;
+    height: 145px;
+}
+.good_teacher{
+    margin-top: 160px;
+}
+.good_teacher p{
+    font-size: 30px;
+    text-align: center;
+
+}
+.good_teacher p span{
+    color: #f88f00;
+}
